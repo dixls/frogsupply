@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params.social]
   github = "https://github.com/dixls/"
-  email = "support@frog.supply""
+  email = "support@frog.supply"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
