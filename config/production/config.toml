@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Frog Supply"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://dixls.github.io/frogsupply/"
 publishDir = "public"
 
 # Remote
