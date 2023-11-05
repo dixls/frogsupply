@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "Pushing the standards of birthday protocols for modern Frogs."
-  logo = "images/banner.jpg"
+  logo = "images/frogman.png"
   favicon = true
 
 [Params.social]
