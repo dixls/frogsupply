@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Frog Supply Birthday Protocol"
+subtitle: |
+  Welcome to Frog Supply, a world of Birthday Magic!
+content : |
+  Happy birthday Rex!!!! I'm so excited for u and ur 30th birthday!!! It's a big one, and I'm really happy to be able to share it with u! I can't wait to celebrate u in a whole bunch of ways in LA and at home!
+button:
+  label : "More Birthday!"
+  link : "#first"
+image : "images/banner.jpg"
+
