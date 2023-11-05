@@ -13,7 +13,7 @@ copyright = "{year}"
 canonifyURLs = "true"
 
 # Local
-baseURL = "https://dixls.github.io/frogsupply/"
+baseURL = "https://birthday.frog.supply"
 publishDir = "public"
 
 # Remote
