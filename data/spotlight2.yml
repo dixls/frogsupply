@@ -3,8 +3,8 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 id: "second"
 title : "Your so good at stuff"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  You make cools drawings, and you keeps making really rad stuff for our house, and ur design sense is just so good. I can't wait to see what other cool stuff you do! Ur killin it at ur job, and ur learning stuff and even doing coding and stuff! like <code>rex.smartsLevel = 1000000</code>
 button: 
-  label: "Learn More"
+  label: "More Birthday!"
   link: "#third"
 image: "images/odoillo.png"
