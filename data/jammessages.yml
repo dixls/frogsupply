@@ -1,0 +1,8 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-middle fullscreen onload-image-fade-in onload-content-fade-right color7"
+id: "messages"
+title : "A Birthday Update from Frog Supply!"
+content : |
+  From ur pals!
+image : "images/jam-messages.png"
+

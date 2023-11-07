@@ -1,0 +1,8 @@
+####################### Banner #########################
+style: "style1 orient-right content-align-left image-position-middle fullscreen onload-image-fade-in onload-content-fade-right color7"
+id: "doodles"
+title : "Some more fun doodles!"
+content : |
+  From ur pals!
+image : "images/jam-doodles.png"
+

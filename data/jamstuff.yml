@@ -1,0 +1,14 @@
+title: "Important Frog Supply Updates!"
+style: "style1 medium lightbox onscroll-fade-in color7"
+content: |
+ Check out these greetings from your pals!
+pictures:
+  - title: "Messages"
+    image: "images/jam-stuff/full/jam-messages.png"
+    thumb: "images/jam-stuff/thumbs/jam-messages.png"
+    button: "Details"
+
+  - title: "Doodles"
+    image: "images/jam-stuff/full/jam-doodles.png"
+    thumb: "images/jam-stuff/thumbs/jam-doodles.png"
+    button: "Details"
